@@ -1,0 +1,7 @@
+.owl-carousel .owl-nav button span{ padding:4px 7px; display:inline-block; }
+
+@media (min-width: 992px){
+	#dokan-seller-listing-wrap ul.dokan-seller-wrap.niz-stores-carousel li {
+	    width: 100%;
+	}
+}
