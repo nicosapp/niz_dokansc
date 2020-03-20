@@ -1,2 +1,2 @@
-# niz_woopc
+# niz_dokansc
  Niz Stores Carousel for Dokan
